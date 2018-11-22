@@ -1,2 +1,3 @@
-# CMPE432-Assn3
-Building an ETL Pipeline with Apache Stack
+# Extract, Transfer, Load
+## Architecture
+![ETL Pipeline Architecture](ETLArchitecture.png?raw=true "ETL Architecture")
